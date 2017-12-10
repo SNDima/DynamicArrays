@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5FB769F4-571C-43CD-B274-157EB9E25256}</ProjectGuid>
-    <RootNamespace>DynamicArrays</RootNamespace>
+    <ProjectGuid>{2C2899A0-8898-49D6-87ED-09BD10199D6F}</ProjectGuid>
+    <RootNamespace>MagicSquare</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

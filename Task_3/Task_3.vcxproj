@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5FB769F4-571C-43CD-B274-157EB9E25256}</ProjectGuid>
-    <RootNamespace>DynamicArrays</RootNamespace>
+    <ProjectGuid>{FCF62531-AC5C-4A3F-B07F-E108787FF726}</ProjectGuid>
+    <RootNamespace>Task_3</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
